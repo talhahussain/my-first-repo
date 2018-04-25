@@ -1,6 +1,6 @@
-#This is a large heading
+# This is a large heading
 
-##This is a small heading
+## This is a small heading
 
 You can add **the description** of your code in the **readme.md** file
 and **push** it to github by using **git push** command (git push -u origin master) first time to add origin
