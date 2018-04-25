@@ -1,0 +1,17 @@
+commit 6571a4978c529b8a22fe4e3a834b0cf8d1e8fd12
+Author: Talha <s.m.talha2015@gmail.com>
+Date:   Wed Apr 25 11:14:01 2018 -0700
+
+    added gitignore
+
+commit 9e56e9c0c236182e258684c078b1741354fac712
+Author: Talha <s.m.talha2015@gmail.com>
+Date:   Wed Apr 25 10:28:25 2018 -0700
+
+    Added two files
+
+commit 6f32b4f19f98e685df64c8b50584a521e294f21e
+Author: Talha <s.m.talha2015@gmail.com>
+Date:   Wed Apr 25 10:14:40 2018 -0700
+
+    added readme.txt
